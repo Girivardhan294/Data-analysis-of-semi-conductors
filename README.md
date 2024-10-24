@@ -27,5 +27,6 @@ The dataset used for training the models contains a significant class imbalance,
 ## Usage
 1. Clone the repository:
    ```bash
-  git clone  https://github.com/Girivardhan294/semiconductor-manufacturing-process.git
+   git clone https://github.com/Girivardhan294/semiconductor-manufacturing-process.git
+
 
